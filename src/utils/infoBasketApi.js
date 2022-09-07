@@ -13,12 +13,7 @@ class InfoBasketApi {
 
   getPersonPhotoUrl(personId)
   {
-    return fetch(`${this._baseUrl}/Widget/GetPersonPhoto/${personId}?d=1`,{
-      mode: 'no-cors'
-    })
-      .then(res => {
-        console.log(res);
-      })
+    return `${this._baseUrl}/Widget/GetPersonPhoto/${personId}?d=1`;
   }
 }
 
