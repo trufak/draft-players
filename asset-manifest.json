@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/draft-players/static/css/main.7e7e0624.css",
+    "main.js": "/draft-players/static/js/main.6e13ccd0.js",
+    "static/js/498.540ba3fd.chunk.js": "/draft-players/static/js/498.540ba3fd.chunk.js",
+    "static/js/703.3876ec04.chunk.js": "/draft-players/static/js/703.3876ec04.chunk.js",
+    "static/js/698.2c164e3a.chunk.js": "/draft-players/static/js/698.2c164e3a.chunk.js",
+    "static/js/787.65308a62.chunk.js": "/draft-players/static/js/787.65308a62.chunk.js",
+    "index.html": "/draft-players/index.html",
+    "main.7e7e0624.css.map": "/draft-players/static/css/main.7e7e0624.css.map",
+    "main.6e13ccd0.js.map": "/draft-players/static/js/main.6e13ccd0.js.map",
+    "498.540ba3fd.chunk.js.map": "/draft-players/static/js/498.540ba3fd.chunk.js.map",
+    "703.3876ec04.chunk.js.map": "/draft-players/static/js/703.3876ec04.chunk.js.map",
+    "698.2c164e3a.chunk.js.map": "/draft-players/static/js/698.2c164e3a.chunk.js.map",
+    "787.65308a62.chunk.js.map": "/draft-players/static/js/787.65308a62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7e0624.css",
+    "static/js/main.6e13ccd0.js"
+  ]
+}
