@@ -1,0 +1,7 @@
+.players__header {
+  display: grid;
+  grid-template-columns: 100px repeat(6,minmax(0,1fr));
+  grid-template-rows: 1fr;
+  font-weight: 700;
+  text-align: center;
+}

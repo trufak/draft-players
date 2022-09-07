@@ -1,0 +1,9 @@
+.find-row__form {
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas: 'input button';
+  grid-template-columns: minmax(0, 1fr) 100px;
+  grid-template-rows: 1fr;
+}

@@ -1,0 +1,7 @@
+.players-item__photo {
+  width: 80%;
+  object-fit: cover;
+  overflow: hidden;
+  border-radius: 50%;
+  border: none;
+}

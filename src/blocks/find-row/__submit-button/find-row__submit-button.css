@@ -1,0 +1,16 @@
+.find-row__submit-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: transparent;
+  border: 0;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.1;
+  cursor: pointer;
+}
+
+.find-row__submit-button:hover {
+  color: rgb(204, 201, 201);
+}

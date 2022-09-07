@@ -1,0 +1,14 @@
+.find-row__search-input {
+  grid-area: input;
+  border: 0;
+  border-radius: 5px;
+  background-color: white;
+  outline:none;
+}
+
+.popup__input::placeholder {
+  opacity: 0.2;
+  color: #000000;
+}
+
+

@@ -1,0 +1,11 @@
+@import url(../vendor/normalize.css);
+/*блок find-row*/
+@import url(../blocks/find-row/find-row.css);
+@import url(../blocks/find-row/__form/find-row__form.css);
+@import url(../blocks/find-row/__search-input/find-row__search-input.css);
+@import url(../blocks/find-row/__submit-button/find-row__submit-button.css);
+/*блок players*/
+@import url(../blocks/players/players.css);
+@import url(../blocks/players/__header/players__header.css);
+@import url(../blocks/players-item/players-item.css);
+@import url(../blocks/players-item/__photo/players-item__photo.css);
